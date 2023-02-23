@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "user": "people@gmail.com",
+      "category": "home",
+      "title": "bfgbv",
+      "model": "bfgbfvf",
+      "description": "fgbfgfvdfvfffffffffffffffffffddd dddddddddddddddddddddddddddddddddd",
+      "price": 436,
+      "color": "#000000",
+      "img1": "https://sadurscy.pl/ru/blog/wp-content/uploads/2019/12/d48ac6040e3478cdf0e32f1919539f5d.jpg",
+      "img2": "https://www.ccnova.ru/images/blog/sovremennye-doma/sovremennyj-dom-4.jpg",
+      "img3": "https://sadurscy.pl/ru/blog/wp-content/uploads/2019/12/d48ac6040e3478cdf0e32f1919539f5d.jpg",
+      "id": 2
+    },
+    {
+      "user": "people@gmail.com",
+      "category": "car",
+      "title": "kjvbfg",
+      "model": "dvdf",
+      "description": "vfd",
+      "color": "#ababab",
+      "price": 1345,
+      "img1": "https://c4.wallpaperflare.com/wallpaper/719/750/409/ford-raptor-pickup-f-150-2019-hd-wallpaper-preview.jpg",
+      "img2": "https://c4.wallpaperflare.com/wallpaper/719/750/409/ford-raptor-pickup-f-150-2019-hd-wallpaper-preview.jpg",
+      "img3": "https://c4.wallpaperflare.com/wallpaper/719/750/409/ford-raptor-pickup-f-150-2019-hd-wallpaper-preview.jpg",
+      "id": 4,
+      "": "elecrtonic"
+    },
+    {
+      "user": "mirsichkar@gmail.com",
+      "category": "home",
+      "title": "home",
+      "model": "ythyth",
+      "description": "ascas",
+      "color": "#ffffff",
+      "price": 3444,
+      "img1": "https://c4.wallpaperflare.com/wallpaper/846/173/87/5c1cbaf96bcec-wallpaper-preview.jpg",
+      "img2": "https://c4.wallpaperflare.com/wallpaper/846/173/87/5c1cbaf96bcec-wallpaper-preview.jpg",
+      "img3": "https://c4.wallpaperflare.com/wallpaper/846/173/87/5c1cbaf96bcec-wallpaper-preview.jpg",
+      "id": 5
+    },
+    {
+      "user": "mirsichkar@gmail.com",
+      "category": "electonic",
+      "title": "cddscsd",
+      "model": "dscsdc",
+      "description": "sdcsdcsdcds",
+      "color": "#a12121",
+      "price": "43678",
+      "img1": "https://prostomob.com/wp-content/uploads/2020/06/notebookpro2020-696x424.jpg",
+      "img2": "https://prostomob.com/wp-content/uploads/2020/06/notebookpro2020-696x424.jpg",
+      "img3": "https://prostomob.com/wp-content/uploads/2020/06/notebookpro2020-696x424.jpg",
+      "id": 6
+    },
+    {
+      "user": "people@gmail.com",
+      "category": "elecrtonic",
+      "title": "sdcsdcs",
+      "model": "gbfjtyj",
+      "description": "svhgthj  hvj j mk i nlmo l p,; [o , mngbfgf",
+      "color": "#302ea8",
+      "price": 45000,
+      "img1": "https://droider.ru/wp-content/uploads/2021/03/anons_xiaomi_mi_notebook_pro_14_i_pro_15_premium_noutbuki_v_metalle_picture2_0.jpg",
+      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrSdtxdvqjaz-kET5Enx2ujv-Tj_aFVoOwSWhZoMj7DCtodQTgdpYlPbFLcvqfP42CHjs&usqp=CAU",
+      "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrSdtxdvqjaz-kET5Enx2ujv-Tj_aFVoOwSWhZoMj7DCtodQTgdpYlPbFLcvqfP42CHjs&usqp=CAU",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "user": "people@gmail.com",
+      "comment": "dce",
+      "card": 2,
+      "hour": 12,
+      "minute": 57,
+      "id": 2
+    },
+    {
+      "user": "people@gmail.com",
+      "comment": "RDHRT",
+      "card": 5,
+      "hour": 11,
+      "minute": 5,
+      "id": 3
+    },
+    {
+      "user": "mirsichkar@gmail.com",
+      "comment": "t5h67",
+      "card": 4,
+      "hour": 10,
+      "minute": 47,
+      "id": 4
+    },
+    {
+      "user": "mirsichkar@gmail.com",
+      "comment": "54t4",
+      "card": 4,
+      "hour": 10,
+      "minute": 48,
+      "id": 5
+    }
+  ]
+}

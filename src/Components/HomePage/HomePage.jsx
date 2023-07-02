@@ -11,6 +11,12 @@ const HomePage = () => {
           style={{ marginTop: "50px", fontSize: "50px", position: "relative" }}>
           Welcome OnlineShop
         </Typography>
+        <Typography
+          className="tr"
+          style={{ marginTop: "50px", fontSize: "20px", position: "relative" }}>
+          Чтобы увидеть товары нужно ввести в консоль Json-server -w db.json -p
+          8000
+        </Typography>
       </div>
     </>
   );

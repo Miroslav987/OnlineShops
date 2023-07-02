@@ -65,6 +65,19 @@
       "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrSdtxdvqjaz-kET5Enx2ujv-Tj_aFVoOwSWhZoMj7DCtodQTgdpYlPbFLcvqfP42CHjs&usqp=CAU",
       "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrSdtxdvqjaz-kET5Enx2ujv-Tj_aFVoOwSWhZoMj7DCtodQTgdpYlPbFLcvqfP42CHjs&usqp=CAU",
       "id": 7
+    },
+    {
+      "user": "people@gmail.com",
+      "category": "elecrtonic",
+      "title": "Phone",
+      "model": "Samsung",
+      "description": "gfbfgbfgbfgbfgbgf",
+      "color": "#7a7171",
+      "price": 34346,
+      "img1": "https://object.pscloud.io/cms/cms/Photo/img_0_77_2343_0_6.png",
+      "img2": "https://object.pscloud.io/cms/cms/Photo/img_0_77_2340_0_6.png",
+      "img3": "https://object.pscloud.io/cms/cms/Photo/img_0_77_2343_0_6.png",
+      "id": 8
     }
   ],
   "comments": [
@@ -99,6 +112,14 @@
       "hour": 10,
       "minute": 48,
       "id": 5
+    },
+    {
+      "user": "people@gmail.com",
+      "comment": "dsvds",
+      "card": 5,
+      "hour": 18,
+      "minute": 22,
+      "id": 6
     }
   ]
 }

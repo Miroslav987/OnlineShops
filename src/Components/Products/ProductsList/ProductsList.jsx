@@ -4,6 +4,7 @@ import { Link, useSearchParams } from "react-router-dom";
 import { productContext } from "../../../context/ProductContextProvider";
 import Filter from "../../Filter/Filter";
 import ProductCard from "../ProductCard/ProductCard";
+import "./ProductList.css";
 
 const ProductsList = () => {
   const { productsArr, readProduct, pageTotalCount } =
@@ -75,7 +76,6 @@ const ProductsList = () => {
         mx="auto"
         my="20px">
         <Pagination
-          color="primary"
           count={+pageTotalCount}
           page={+page}
           onChange={(e, value) => setPage(value)}
